@@ -2,10 +2,10 @@
 Performing analysis on twelve stocks by comparing their daily trading volumes and returns in year 2017 and 2018.
 
 ## Overview of the project
-This project is to refactot the code on AllStockAnalysis.
+This project is to refactor the code on AllStockAnalysis.
 
 ### Purpose
-By refactoring the code, we should get the same result as AllStockAnalysis within less execution time. We should be able to compare the stock performance and identify the potential stock to be invested in.
+By refactoring the code, we should get the same result as AllStockAnalysis within less execution time. We should be able to compare the stock performance and identify the potential stock for investment.
 
 ## Results
 
@@ -41,14 +41,15 @@ There are two advantages of the refactored VBA project. First it improved code p
 <br />
 
 **Nested Loops on Original Script**
+<br />
 ![](screenshots/OriginalLoop.png)
 
 <br />
 
 **Refactored Scripts with no Nested Loop**
-![](screenshots/RefactoredArrays.png)
-![](screenshots/RefactoredLoop.png)
-![](screenshots/RefactoredOutcome.png)
+<br />
+![](screenshots/RefactorLoop1.png)
+![](screenshots/RefactorLoop2.png)
 
 I personally found two disadvantages on the refactored VBA project. First it requires a strong logic to write a longer and more complicated code. It is difficult for a beginner. Second I personnally encountered many errors to debug compared to the nested loop, and it takes a lot of time.
 
